@@ -1,5 +1,5 @@
 # davinci-nfc-tag
-Generate validate data for DaVinci NFC tags
+Generate & validate data for DaVinci NFC tags
 
 ## Build & development
 
